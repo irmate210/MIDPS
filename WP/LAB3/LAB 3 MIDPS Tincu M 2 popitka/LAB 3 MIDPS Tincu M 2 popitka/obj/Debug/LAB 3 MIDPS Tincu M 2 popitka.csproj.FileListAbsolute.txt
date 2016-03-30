@@ -1,0 +1,9 @@
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\bin\Debug\LAB 3 MIDPS Tincu M 2 popitka.exe.config
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\bin\Debug\LAB 3 MIDPS Tincu M 2 popitka.exe
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\bin\Debug\LAB 3 MIDPS Tincu M 2 popitka.pdb
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\obj\Debug\LAB 3 MIDPS Tincu M 2 popitka.csprojResolveAssemblyReference.cache
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\obj\Debug\LAB_3_MIDPS_Tincu_M_2_popitka.Form1.resources
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\obj\Debug\LAB_3_MIDPS_Tincu_M_2_popitka.Properties.Resources.resources
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\obj\Debug\LAB 3 MIDPS Tincu M 2 popitka.csproj.GenerateResource.Cache
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\obj\Debug\LAB 3 MIDPS Tincu M 2 popitka.exe
+D:\Visual Studio\LAB 3 MIDPS Tincu M 2 popitka\LAB 3 MIDPS Tincu M 2 popitka\obj\Debug\LAB 3 MIDPS Tincu M 2 popitka.pdb
