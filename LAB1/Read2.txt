@@ -1,0 +1,9 @@
+git status
+git add .
+git commit -m "lalal"
+
+git log pentru vederea comitului
+
+git remote add origin + link
+
+git push origin master
